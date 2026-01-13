@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I’m Atharva 👋
 
-<!--
-**atharva-P15/atharva-P15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science Engineering student who enjoys building things, breaking them, and learning how they actually work.
 
-Here are some ideas to get you started:
+🔭 What I’m currently working on
+Academic and personal projects
+Currently focusing on Cloud Computing, with a strong emphasis on AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools & Technologies
+Python
+C / C++ / Java
+HTML, CSS, JavaScript
+React, Node.js
+MongoDB
+Nginx
+Vercel
+SQL
+Git & GitHub
+
+📫 How to reach me
+Email: atharvap023@gmail.com
