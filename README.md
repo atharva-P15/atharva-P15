@@ -2,7 +2,7 @@
 
 I’m a Computer Science Engineering student who enjoys building things, breaking them, and learning how they actually work.
 
-### 🔭 What I’m currently working on
+### 🔭 I’m currently working on
 - Academic and personal projects  
 - Currently focusing on Cloud Computing, with a strong emphasis on AWS
 
