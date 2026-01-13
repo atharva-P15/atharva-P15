@@ -1,6 +1,6 @@
 ## Hi, I’m Atharva 👋
 
-I’m a Computer Science Engineering student who enjoys building things, breaking them, and learning how they actually work.
+I’m a Computer Science Engineering student who likes understanding how systems work by building them hands-on and refining them through iteration.
 
 ### 🔭 I’m currently working on
 - Academic and personal projects  
