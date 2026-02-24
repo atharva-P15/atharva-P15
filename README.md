@@ -11,11 +11,8 @@ I’m a Computer Science Engineering student who likes understanding how systems
 - C / C++ / Java  
 - HTML, CSS, JavaScript 
 - React, Node.js  
-- MongoDB  
-- Nginx  
-- Vercel  
+- MongoDB   
 - SQL  
-- Git & GitHub  
 
 ### 📫 How to reach me
 - Email: atharvap023@gmail.com  
